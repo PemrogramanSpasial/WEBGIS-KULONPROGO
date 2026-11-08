@@ -1,0 +1,2548 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1492634,
+     -7.6506933
+    ]
+   },
+   "properties": {
+    "id": "W001",
+    "nama": "Kebun Teh Tritis",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Ngargosari",
+    "kategori": "Agrowisata",
+    "deskripsi": "Kebun Teh Tritis menawarkan pemandangan hamparan tanaman teh di kawasan perbukitan Menoreh. Suasana hijau, udara sejuk, dan lanskap perkebunan menjadikannya tempat yang menarik untuk menikmati alam serta mengambil foto.",
+    "rating": 4.3,
+    "jumlah_ulasan": 264,
+    "harga_masuk": 10000,
+    "harga_paket": null,
+    "makan_min": 25000,
+    "makan_max": 100000,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/YgUwg2yjZctV2asK7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1436743,
+     -7.6459518
+    ]
+   },
+   "properties": {
+    "id": "W002",
+    "nama": "Kebun Teh Nglinggo",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Agrowisata",
+    "deskripsi": "Kebun Teh Nglinggo merupakan kawasan perkebunan teh di Perbukitan Menoreh yang menawarkan hamparan tanaman teh dengan udara sejuk dan panorama perbukitan. Pengunjung dapat berjalan menyusuri area perkebunan sambil menikmati suasana alam dan pemandangan dari dataran tinggi.",
+    "rating": 4.5,
+    "jumlah_ulasan": 4362,
+    "harga_masuk": 15000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "07:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/BjmsYL4yQiofVXAy7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.14119,
+     -7.673244
+    ]
+   },
+   "properties": {
+    "id": "W003",
+    "nama": "Sawah Nglorok",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Agrowisata",
+    "deskripsi": "Sawah Nglorok merupakan kawasan persawahan yang menawarkan pemandangan lanskap pedesaan di wilayah Samigaluh. Hamparan lahan pertanian dan latar perbukitan Menoreh menjadikannya tempat yang menarik untuk menikmati suasana pedesaan dan fotografi lanskap.",
+    "rating": null,
+    "jumlah_ulasan": null,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "23:00",
+    "buka_24jam": false,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/aABmgmNeSvVQRVCY6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1728034,
+     -7.6779295
+    ]
+   },
+   "properties": {
+    "id": "W004",
+    "nama": "AGROWISATA KRISAN GERBOSARI",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Gerbosari",
+    "kategori": "Agrowisata",
+    "deskripsi": "Agrowisata Krisan Gerbosari merupakan destinasi wisata pertanian yang menawarkan keindahan bunga krisan yang dibudidayakan oleh masyarakat setempat. Tempat ini cocok untuk menikmati keindahan tanaman hias, berfoto, serta mengenal kegiatan budidaya bunga di kawasan pedesaa",
+    "rating": 4.4,
+    "jumlah_ulasan": 407,
+    "harga_masuk": 5000,
+    "harga_paket": 80000,
+    "makan_min": 5000,
+    "makan_max": 25000,
+    "jam_buka": "08:00",
+    "jam_tutup": "23:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/98WvDLKaM7Xdj7Sd8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1374007,
+     -7.6957101
+    ]
+   },
+   "properties": {
+    "id": "W005",
+    "nama": "NGORI KEBONHARJO",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Kebonharjo",
+    "kategori": "Agrowisata",
+    "deskripsi": "Ngori Kebonharjo merupakan destinasi wisata di kawasan perdesaan Kulon Progo yang menawarkan suasana alam dan lingkungan hijau. Tempat ini dapat menjadi pilihan untuk bersantai sekaligus menikmati suasana pedesaan yang jauh dari keramaian perkotaan.",
+    "rating": 4.4,
+    "jumlah_ulasan": 42,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/hCo3wwLK8Et5pWij9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2468443,
+     -7.6950906
+    ]
+   },
+   "properties": {
+    "id": "W006",
+    "nama": "Gubuk jamur (Jamur Tiram & Kuping)",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarharjo",
+    "kategori": "Agrowisata",
+    "deskripsi": "Gubuk Jamur merupakan destinasi yang berkaitan dengan budidaya jamur tiram dan jamur kuping. Tempat ini berpotensi menjadi wisata edukasi pertanian yang memperkenalkan proses budidaya jamur serta pemanfaatannya sebagai produk pangan.",
+    "rating": 5,
+    "jumlah_ulasan": 5,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": 3000,
+    "makan_max": 85000,
+    "jam_buka": "07:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/WUQ4xVMzgeKSkuHx7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2380821,
+     -7.699357
+    ]
+   },
+   "properties": {
+    "id": "W007",
+    "nama": "PROGO BANASRI FARM",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Agrowisata",
+    "deskripsi": "Progo Banasri Farm merupakan destinasi berbasis pertanian yang berada di kawasan Banjarasri, Kalibawang. Tempat ini dapat diperkenalkan sebagai pilihan untuk mengenal potensi usaha pertanian lokal dan suasana lingkungan perdesaan di sekitar kawasan Sungai Progo.",
+    "rating": 5,
+    "jumlah_ulasan": 23,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "09:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/FMUYxmsEhNyaUZWg8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2324447,
+     -7.6742883
+    ]
+   },
+   "properties": {
+    "id": "W008",
+    "nama": "Agrowisata Kalisentul",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarharjo",
+    "kategori": "Agrowisata",
+    "deskripsi": "Agrowisata Kalisentul merupakan destinasi wisata yang mengangkat potensi pertanian dan suasana alam di kawasan Kalibawang. Destinasi ini berpotensi menawarkan pengalaman wisata berbasis alam dan kegiatan pertanian lokal bagi pengunjung yang ingin mengenal kehidupan perdesaan.",
+    "rating": 5,
+    "jumlah_ulasan": 7,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/S8vaS1iPLRn3xnRu9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1433749,
+     -7.6611238
+    ]
+   },
+   "properties": {
+    "id": "W009",
+    "nama": "Rest Area Segitik",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Akomodasi dan Rekreasi",
+    "deskripsi": "Rest Area Segitik menjadi tempat singgah bagi wisatawan yang menjelajahi kawasan perbukitan Kulon Progo. Tempat ini dapat dimanfaatkan untuk beristirahat sejenak sembari menikmati suasana sekitar sebelum melanjutkan perjalanan ke destinasi wisata lainnya.",
+    "rating": 4.3,
+    "jumlah_ulasan": 37,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "07:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/ZAYnSMVC2b9iVH2f6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1401295,
+     -7.6564931
+    ]
+   },
+   "properties": {
+    "id": "W010",
+    "nama": "GLAMPING MENOREH",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Akomodasi dan Rekreasi",
+    "deskripsi": "Glamping Menoreh menawarkan pengalaman menginap di alam terbuka dengan konsep glamorous camping. Destinasi ini memadukan suasana alam perbukitan dengan fasilitas menginap yang lebih nyaman, sehingga cocok untuk beristirahat dan menikmati suasana alam.",
+    "rating": 4.4,
+    "jumlah_ulasan": 253,
+    "harga_masuk": 10000,
+    "harga_paket": 1000000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "14:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/AoFQtjhRNyXLngVL9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1328125,
+     -7.6658125
+    ]
+   },
+   "properties": {
+    "id": "W011",
+    "nama": "Menoreh Rock Cabin",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Akomodasi dan Rekreasi",
+    "deskripsi": "Menoreh Rock Cabin merupakan destinasi penginapan bernuansa alam di kawasan Perbukitan Menoreh. Konsep kabin dan lingkungan perbukitan memberikan pengalaman menginap yang dekat dengan alam, cocok untuk bersantai dan menikmati suasana kawasan Menoreh.",
+    "rating": 4.8,
+    "jumlah_ulasan": 46,
+    "harga_masuk": 25000,
+    "harga_paket": 625000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/ejtt8eyxQSLYybJ3A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1650925,
+     -7.7590331
+    ]
+   },
+   "properties": {
+    "id": "W012",
+    "nama": "PROBOSIWI RESORT",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Giripurwo",
+    "kategori": "Akomodasi dan Rekreasi",
+    "deskripsi": "Probosiwi Resort merupakan destinasi untuk beristirahat dan menikmati suasana alam di kawasan Kulon Progo. Tempat ini dapat menjadi pilihan bagi wisatawan yang ingin bersantai sekaligus menjelajahi berbagai objek wisata di sekitarnya.",
+    "rating": 4.9,
+    "jumlah_ulasan": 280,
+    "harga_masuk": 0,
+    "harga_paket": 475000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/sEa3f5Y3KSXnx3c86"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2408636,
+     -7.7072221
+    ]
+   },
+   "properties": {
+    "id": "W013",
+    "nama": "Shafira Garden",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Akomodasi dan Rekreasi",
+    "deskripsi": "Shafira Garden merupakan destinasi wisata bernuansa taman yang menawarkan suasana terbuka untuk bersantai dan berkumpul. Tempat ini dapat menjadi alternatif kunjungan bagi wisatawan yang ingin menikmati waktu luang dalam suasana yang nyaman.",
+    "rating": 4.6,
+    "jumlah_ulasan": 27,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": 5000,
+    "makan_max": 45000,
+    "jam_buka": null,
+    "jam_tutup": null,
+    "buka_24jam": null,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/9c932hnqMcVAbRck8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2213183,
+     -7.6987921
+    ]
+   },
+   "properties": {
+    "id": "W014",
+    "nama": "Tubing & Black Hole Banjarasri",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Akomodasi dan Rekreasi",
+    "deskripsi": "Tubing & Black Hole Banjarasri menawarkan pengalaman wisata petualangan berbasis alam dengan aktivitas menyusuri aliran sungai menggunakan ban pelampung. Destinasi ini cocok bagi pencinta kegiatan luar ruang yang ingin menikmati sensasi petualangan di tengah lingkungan alami.",
+    "rating": 5,
+    "jumlah_ulasan": 2,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "15:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/FZU7FtT5CFVkxi7r9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.222199,
+     -7.6982391
+    ]
+   },
+   "properties": {
+    "id": "W015",
+    "nama": "dolaNdeso Boro",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Akomodasi dan Rekreasi",
+    "deskripsi": "dolaNdeso Boro merupakan destinasi wisata berbasis alam dan aktivitas luar ruang di kawasan Boro, Kulon Progo. Tempat ini dikenal sebagai pilihan untuk rekreasi, kegiatan kelompok, dan pengalaman wisata yang memadukan suasana pedesaan dengan aktivitas petualangan.",
+    "rating": 4.4,
+    "jumlah_ulasan": 2717,
+    "harga_masuk": 5000,
+    "harga_paket": 160000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/1UV9vCG8FVuaqzx66"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2558633,
+     -7.6522479
+    ]
+   },
+   "properties": {
+    "id": "W016",
+    "nama": "Desa Wisata Banjaroya Jogja",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Religi dan Budaya",
+    "deskripsi": "Desa Wisata Banjaroya merupakan destinasi wisata berbasis masyarakat di Kapanewon Kalibawang, Kulon Progo. Kawasan ini menawarkan pengalaman wisata pedesaan dengan potensi alam, budaya lokal, serta kehidupan masyarakat yang khas.",
+    "rating": 5,
+    "jumlah_ulasan": 16,
+    "harga_masuk": 0,
+    "harga_paket": 120000,
+    "makan_min": 15000,
+    "makan_max": 20000,
+    "jam_buka": "07:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/vEssmGDemm4nxYka7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1958839,
+     -7.6955803
+    ]
+   },
+   "properties": {
+    "id": "W017",
+    "nama": "Desa Wisata Tinalah (Dewi Tinalah - Wisata Jogja)",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Purwoharjo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Desa Wisata Tinalah menawarkan pengalaman berwisata di tengah lanskap pedesaan dan perbukitan Menoreh. Pengunjung dapat menikmati wisata alam, kegiatan luar ruang, serta aktivitas edukatif yang mengenalkan potensi dan kehidupan masyarakat setempat.",
+    "rating": 4.5,
+    "jumlah_ulasan": 1251,
+    "harga_masuk": 20000,
+    "harga_paket": 230000,
+    "makan_min": 8000,
+    "makan_max": 170000,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/Vf55qUrtgaR1A51k9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.141878,
+     -7.647668
+    ]
+   },
+   "properties": {
+    "id": "W018",
+    "nama": "Desa Wisata Nglinggo",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Agrowisata",
+    "deskripsi": "Desa Wisata Nglinggo merupakan desa wisata di kawasan Perbukitan Menoreh yang memadukan potensi alam, budaya, dan kehidupan masyarakat lokal. Daya tariknya meliputi perkebunan teh, wisata edukasi, kegiatan off-road, kesenian tradisional Lengger Tapeng, serta berbagai pilihan homestay dan aktivitas wisata.",
+    "rating": 4.4,
+    "jumlah_ulasan": 689,
+    "harga_masuk": 15000,
+    "harga_paket": 225000,
+    "makan_min": 5000,
+    "makan_max": 35000,
+    "jam_buka": "09:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/jZ1drq8QAphkRiN88"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1542691,
+     -7.661506
+    ]
+   },
+   "properties": {
+    "id": "W019",
+    "nama": "Desa Wisata Widosari (Desa Wisata Widosari Jogja)",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Ngargosari",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Desa Wisata Widosari merupakan desa wisata di kawasan Samigaluh yang mengandalkan potensi alam dan kehidupan pedesaan sebagai daya tarik utama. Kawasan ini juga menjadi akses menuju berbagai destinasi perbukitan, termasuk Puncak Widosari, serta menawarkan pengalaman wisata berbasis masyarakat.",
+    "rating": 4.8,
+    "jumlah_ulasan": 61,
+    "harga_masuk": 15000,
+    "harga_paket": 92500,
+    "makan_min": 5000,
+    "makan_max": 25000,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/MdfMtVVwFm4x3Nx6A"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1307636,
+     -7.7526214
+    ]
+   },
+   "properties": {
+    "id": "W020",
+    "nama": "Desa Wisata Jatimulyo - Kulon Progo",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Desa Wisata Jatimulyo merupakan destinasi wisata berbasis alam dan masyarakat di Kecamatan Girimulyo, Kulon Progo. Kawasan ini memiliki potensi wisata berupa air terjun, lingkungan hutan yang asri, serta keanekaragaman hayati yang menarik untuk kegiatan rekreasi dan ekowisata.",
+    "rating": 4.2,
+    "jumlah_ulasan": 82,
+    "harga_masuk": 3000,
+    "harga_paket": 755000,
+    "makan_min": 10000,
+    "makan_max": 350000,
+    "jam_buka": "08:00",
+    "jam_tutup": "15:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/fvfKLGpT8Pndy4Se9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.215804,
+     -7.6840609
+    ]
+   },
+   "properties": {
+    "id": "W021",
+    "nama": "DUSUN BORO SUCI",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Religi dan Budaya",
+    "deskripsi": "Dusun Boro Suci menawarkan suasana kehidupan pedesaan dengan lingkungan yang tenang dan pemandangan alam khas Kulon Progo. Kawasan ini berpotensi menjadi tujuan wisata berbasis masyarakat untuk mengenal kehidupan lokal, budaya, dan lingkungan perdesaan.",
+    "rating": 4.6,
+    "jumlah_ulasan": 58,
+    "harga_masuk": 5000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/ZLAxXE46mg9K7N7A9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2254251,
+     -7.6985187
+    ]
+   },
+   "properties": {
+    "id": "W022",
+    "nama": "Desa Wisata Banjarasri",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Desa Wisata Banjarasri merupakan destinasi wisata berbasis masyarakat di Kecamatan Kalibawang, Kulon Progo. Desa ini menawarkan potensi wisata alam, kehidupan pedesaan, dan aktivitas masyarakat lokal yang dapat memberikan pengalaman wisata sekaligus mengenalkan potensi wilayah setempat.",
+    "rating": 4.6,
+    "jumlah_ulasan": 205,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": 65000,
+    "makan_max": 200000,
+    "jam_buka": "09:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/9Ne79zdVj1BXeDUX7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2045109,
+     -7.7125459
+    ]
+   },
+   "properties": {
+    "id": "W023",
+    "nama": "Puncak Kleco Desa Wisata Tinalah",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Purwoharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Puncak Kleco merupakan destinasi wisata alam di kawasan Perbukitan Menoreh yang menyuguhkan panorama perbukitan dan bentang alam sekitarnya dari ketinggian. Tempat ini cocok untuk menikmati pemandangan, berfoto, dan melakukan aktivitas wisata alam.",
+    "rating": 4.5,
+    "jumlah_ulasan": 385,
+    "harga_masuk": 20000,
+    "harga_paket": 80000,
+    "makan_min": 8000,
+    "makan_max": 170000,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/wnRre5FffMs5fENs8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1382194,
+     -7.7084829
+    ]
+   },
+   "properties": {
+    "id": "W024",
+    "nama": "Curug Glimpang",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Purwosari",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Curug Glimpang merupakan destinasi wisata air terjun yang menawarkan suasana alami dengan aliran air dan lingkungan hijau di sekitarnya. Destinasi ini dapat menjadi pilihan bagi wisatawan yang ingin menikmati keindahan alam dan suasana yang lebih tenang.",
+    "rating": 4.2,
+    "jumlah_ulasan": 52,
+    "harga_masuk": 10000,
+    "harga_paket": 50000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/AWdtNEfCeNrPPmoy5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1300437,
+     -7.6603164
+    ]
+   },
+   "properties": {
+    "id": "W025",
+    "nama": "Gunung kukusan",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Gunung Kukusan merupakan destinasi wisata perbukitan di kawasan Menoreh yang dikenal dengan panorama alam dari area puncaknya. Pengunjung dapat menikmati lanskap perbukitan dan suasana alam yang sesuai untuk kegiatan trekking ringan serta fotografi, bergantung pada kondisi jalur.",
+    "rating": null,
+    "jumlah_ulasan": null,
+    "harga_masuk": 5000,
+    "harga_paket": 3000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/WoCGTs4mAPa6par16"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1320557,
+     -7.6626802
+    ]
+   },
+   "properties": {
+    "id": "W026",
+    "nama": "Gunung pakel",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Gunung Pakel merupakan tujuan wisata alam yang dapat dimanfaatkan untuk menikmati karakter lanskap perbukitan di wilayah Kulon Progo. Kawasan ini menarik bagi wisatawan yang ingin menjelajahi lingkungan alam dan menikmati suasana pedesaan.",
+    "rating": null,
+    "jumlah_ulasan": null,
+    "harga_masuk": 0,
+    "harga_paket": 7500,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/UrPsfQiwTVVZCisN9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1432474,
+     -7.6459715
+    ]
+   },
+   "properties": {
+    "id": "W027",
+    "nama": "PUNCAK 9 BUKIT NGISIS",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Puncak 9 Bukit Ngisis merupakan salah satu spot sunrise di kawasan Desa Wisata Nglinggo. Dari ketinggian, pengunjung dapat menikmati panorama Perbukitan Menoreh dan sejumlah gunung di Jawa Tengah, serta memanfaatkan kawasan ini untuk berkemah dan menikmati suasana pagi.",
+    "rating": 4.6,
+    "jumlah_ulasan": 1058,
+    "harga_masuk": 10000,
+    "harga_paket": 812500,
+    "makan_min": 3000,
+    "makan_max": 35000,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/szFxvnpgLGtjwyeTA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1434925,
+     -7.6450337
+    ]
+   },
+   "properties": {
+    "id": "W028",
+    "nama": "Isis Hill",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Pagerharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Isis Hill merupakan destinasi perbukitan di kawasan Nglinggo yang menawarkan suasana sejuk dan panorama hijau Perbukitan Menoreh. Lokasinya cocok untuk menikmati pemandangan alam, fotografi, dan bersantai di area terbuka.",
+    "rating": 4.5,
+    "jumlah_ulasan": 67,
+    "harga_masuk": 3000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/3VaEABEA8qkc2R9b9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1550067,
+     -7.685641
+    ]
+   },
+   "properties": {
+    "id": "W029",
+    "nama": "Puncak Sigong Sunrise Spot",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Banjarsari",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Puncak Sigong merupakan destinasi perbukitan yang dikenal sebagai tempat menikmati matahari terbit di kawasan Samigaluh. Suasana alam yang terbuka dan panorama perbukitan menjadikannya pilihan untuk menikmati pagi serta mengabadikan pemandangan dari ketinggian.",
+    "rating": 4.7,
+    "jumlah_ulasan": 19,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/dpdseyd8bg9fCPL98"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1662431,
+     -7.6800237
+    ]
+   },
+   "properties": {
+    "id": "W030",
+    "nama": "Kedung Sowo",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Gerbosari",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Kedung Sowo merupakan destinasi wisata alam di kawasan Gerbosari, Samigaluh. Lingkungan alami dan suasana perdesaan di sekitarnya menjadikannya tempat yang menarik untuk menikmati ketenangan alam dan menjelajahi lanskap Perbukitan Menoreh.",
+    "rating": 4.8,
+    "jumlah_ulasan": 23,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "07:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/rCCKsSRvV2raAjVYA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2070708,
+     -7.6564309
+    ]
+   },
+   "properties": {
+    "id": "W031",
+    "nama": "Wisata Air Terjun Watu Jengger",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Sidoharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Wisata Air Terjun Watu Jengger merupakan destinasi wisata alam yang menawarkan keindahan aliran air terjun dan suasana lingkungan yang asri. Tempat ini cocok untuk menikmati kesejukan alam dan menjelajahi keindahan lanskap pedesaan.",
+    "rating": 4,
+    "jumlah_ulasan": 73,
+    "harga_masuk": 5000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "07:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/6xWoaJfavrBHKcuF7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2081121,
+     -7.6643486
+    ]
+   },
+   "properties": {
+    "id": "W032",
+    "nama": "Watu Tekek",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Sidoharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Watu Tekek merupakan destinasi wisata alam yang menawarkan suasana alami di kawasan perbukitan Kulon Progo. Tempat ini dapat menjadi pilihan untuk menikmati pemandangan alam dan ketenangan lingkungan pedesaan.",
+    "rating": 4.2,
+    "jumlah_ulasan": 150,
+    "harga_masuk": 4000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "06:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/rNCYFVcMv9HmAMB99"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2019759,
+     -7.6699738
+    ]
+   },
+   "properties": {
+    "id": "W033",
+    "nama": "Air Terjun Sidoharjo",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Sidoharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Air Terjun Sidoharjo merupakan salah satu destinasi wisata alam di kawasan Samigaluh, Kulon Progo, yang dikenal dengan aliran air terjun tinggi dan lingkungan hijau. Pemandangan alamnya menjadi daya tarik bagi pengunjung yang ingin menikmati keindahan air terjun dan suasana sejuk.",
+    "rating": 4.5,
+    "jumlah_ulasan": 831,
+    "harga_masuk": 5000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/xWR8DDkiqdKZWeYp9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.187785,
+     -7.6638748
+    ]
+   },
+   "properties": {
+    "id": "W034",
+    "nama": "AIR TERJUN SILUOK",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Sidoharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Air Terjun Siluok merupakan destinasi wisata alam yang menyuguhkan aliran air di tengah lingkungan yang masih alami. Tempat ini cocok bagi wisatawan yang ingin menikmati suasana tenang dan menjelajahi keindahan alam Kulon Progo.",
+    "rating": 4.6,
+    "jumlah_ulasan": 30,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "06:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/voqPBcyVuGqaT93XA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1772274,
+     -7.6815119
+    ]
+   },
+   "properties": {
+    "id": "W035",
+    "nama": "Gardu Pandang Tanggulangsi",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Gerbosari",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Gardu Pandang Tanggulangsi merupakan tempat untuk menikmati panorama alam dari ketinggian di kawasan perbukitan Kulon Progo. Lokasi ini cocok untuk bersantai, mengamati bentang alam sekitar, dan mengambil foto pemandangan.",
+    "rating": 4.1,
+    "jumlah_ulasan": 105,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": null,
+    "jam_tutup": null,
+    "buka_24jam": null,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/dobXMm2fQWVHZGiM7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2031232,
+     -7.7035962
+    ]
+   },
+   "properties": {
+    "id": "W036",
+    "nama": "Goa Sriti",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Purwoharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Goa Sriti merupakan destinasi wisata gua yang menawarkan pengalaman menjelajahi bentang alam dan formasi alami di dalam gua. Tempat ini menarik bagi pengunjung yang ingin mengenal keunikan lingkungan gua serta potensi wisata alam setempat.",
+    "rating": 4.3,
+    "jumlah_ulasan": 90,
+    "harga_masuk": 3000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "09:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/1tKpeYswd2F6BnPE9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1307018,
+     -7.7723707
+    ]
+   },
+   "properties": {
+    "id": "W037",
+    "nama": "Wisata Alam Kedung Banteng",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Wisata Alam Kedung Banteng merupakan destinasi wisata alam yang menawarkan suasana lingkungan hijau dan panorama khas perbukitan Kulon Progo. Tempat ini cocok untuk menikmati ketenangan alam dan menjelajahi keindahan pedesaan.",
+    "rating": 4.3,
+    "jumlah_ulasan": 77,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/hxaYX3Tia8d5JpBZ6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.121244,
+     -7.772227
+    ]
+   },
+   "properties": {
+    "id": "W038",
+    "nama": "Bukit Sebantung (Kedung Pedut Jilid II)",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Bukit Sebantung (Kedung Pedut Jilid II) merupakan destinasi wisata alam di kawasan perbukitan Kulon Progo yang menawarkan pemandangan hijau dan suasana alami. Tempat ini menjadi pilihan bagi wisatawan yang ingin menikmati panorama alam dan beraktivitas di luar ruangan.",
+    "rating": 4.4,
+    "jumlah_ulasan": 35,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/nN3dYeKV8bJ3kXtt9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1210707,
+     -7.7699875
+    ]
+   },
+   "properties": {
+    "id": "W039",
+    "nama": "Kedung Pedut Waterfall",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Kedung Pedut Waterfall merupakan air terjun di kawasan Girimulyo, Kulon Progo, yang terkenal dengan aliran air jernih dan kolam alami berwarna kehijauan. Dikelilingi pepohonan dan bebatuan, tempat ini cocok untuk menikmati keindahan alam dan bermain air.",
+    "rating": 4.5,
+    "jumlah_ulasan": 3998,
+    "harga_masuk": 20000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "15:30",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/7jNSTbJg7APpU4GNA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1161247,
+     -7.7628166
+    ]
+   },
+   "properties": {
+    "id": "W040",
+    "nama": "Ekowisata Sungai Mudal",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Ekowisata Sungai Mudal merupakan destinasi wisata alam yang memanfaatkan sumber mata air dan aliran sungai yang jernih di tengah lingkungan hijau. Pengunjung dapat menikmati kolam alami, suasana sejuk, serta keindahan alam dalam kawasan ekowisata.",
+    "rating": 4.7,
+    "jumlah_ulasan": 9835,
+    "harga_masuk": 10000,
+    "harga_paket": 62500,
+    "makan_min": 5000,
+    "makan_max": 35000,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/t7Sj6GAT51VWWFqBA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1175615,
+     -7.7664251
+    ]
+   },
+   "properties": {
+    "id": "W041",
+    "nama": "Air Terjun Kembang Soka",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Air Terjun Kembang Soka merupakan destinasi wisata air terjun di Kulon Progo yang menawarkan aliran air jernih dengan perpaduan warna kolam alami dan bebatuan. Lingkungan yang hijau menjadikannya tempat menarik untuk menikmati pemandangan dan kesegaran alam.",
+    "rating": 4.7,
+    "jumlah_ulasan": 1393,
+    "harga_masuk": 11000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/LSbDkxU4ZVK6onkw9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1177871,
+     -7.7668755
+    ]
+   },
+   "properties": {
+    "id": "W042",
+    "nama": "Wisata Alam Kembangsoka",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Wisata Alam Kembangsoka merupakan kawasan rekreasi alam yang dikenal dengan air terjun, kolam alami, dan aliran sungai yang jernih. Destinasi ini cocok bagi wisatawan yang ingin menikmati suasana sejuk dan keindahan alam perbukitan Menoreh.",
+    "rating": 4.6,
+    "jumlah_ulasan": 31,
+    "harga_masuk": 11000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/QRnMTneaSxAtUAyU9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1358235,
+     -7.7519624
+    ]
+   },
+   "properties": {
+    "id": "W043",
+    "nama": "Grojogan Sewu Waterfall",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Grojogan Sewu Waterfall merupakan destinasi wisata air terjun yang menyuguhkan aliran air di tengah lingkungan alami dan pepohonan hijau. Tempat ini menawarkan suasana yang menyegarkan bagi pengunjung yang ingin menikmati keindahan alam.",
+    "rating": 4.2,
+    "jumlah_ulasan": 358,
+    "harga_masuk": 4000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/JBQMJa6wxTKPa6Sz5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1404933,
+     -7.7468187
+    ]
+   },
+   "properties": {
+    "id": "W044",
+    "nama": "Gunung Lanang",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Gunung Lanang merupakan destinasi wisata perbukitan di Kulon Progo yang menawarkan panorama alam dari ketinggian. Kawasan ini menarik untuk menikmati pemandangan perbukitan, berfoto, dan mengenal lanskap alam setempat.",
+    "rating": 4.2,
+    "jumlah_ulasan": 198,
+    "harga_masuk": 5000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/Z731DbxYRCsKHGD87"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1594015,
+     -7.7559602
+    ]
+   },
+   "properties": {
+    "id": "W045",
+    "nama": "Tompak View",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Giripurwo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Tompak View merupakan destinasi wisata dengan panorama perbukitan dan bentang alam pedesaan Kulon Progo. Tempat ini cocok untuk menikmati pemandangan dari ketinggian, bersantai, dan mengabadikan keindahan alam.",
+    "rating": 4.3,
+    "jumlah_ulasan": 185,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/DCYxpo4RpoJQodfM6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1785781,
+     -7.7505125
+    ]
+   },
+   "properties": {
+    "id": "W046",
+    "nama": "Puncak Moyeng",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Pendoworejo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Puncak Moyeng merupakan destinasi wisata alam di kawasan perbukitan Menoreh yang menawarkan pemandangan lanskap hijau dari ketinggian. Suasananya cocok untuk menikmati udara segar, fotografi alam, dan bersantai.",
+    "rating": 4.5,
+    "jumlah_ulasan": 112,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/6BhECEoZUjN6x6JMA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1903153,
+     -7.7479509
+    ]
+   },
+   "properties": {
+    "id": "W047",
+    "nama": "Nanggulan Rice Terrace, Watumurah, Pendowoharjo",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Pendoworejo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Nanggulan Rice Terrace, Watumurah, Pendowoharjo merupakan kawasan persawahan yang menampilkan hamparan lahan pertanian dengan pola terasering dan suasana pedesaan. Lanskap hijau serta aktivitas pertanian masyarakat menjadi daya tarik bagi wisatawan yang ingin menikmati pemandangan alam.",
+    "rating": 4.3,
+    "jumlah_ulasan": 113,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/iWS8w8q8yqP6sK6Y6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1806758,
+     -7.7450593
+    ]
+   },
+   "properties": {
+    "id": "W048",
+    "nama": "Bendung Khayangan Adventure Park",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Pendoworejo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Bendung Khayangan Adventure Park merupakan destinasi wisata yang memadukan lingkungan sungai dan bendungan dengan aktivitas rekreasi luar ruang. Kawasan ini cocok untuk menikmati panorama alam, bersantai, dan melakukan kegiatan wisata bersama keluarga atau kelompok.",
+    "rating": 4.4,
+    "jumlah_ulasan": 612,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/9mNs8UrSP4MH8QeH6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1828333,
+     -7.7464642
+    ]
+   },
+   "properties": {
+    "id": "W049",
+    "nama": "Lembah Khayangan",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Pendoworejo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Lembah Khayangan merupakan destinasi wisata alam yang menawarkan pemandangan lembah hijau dan suasana perbukitan yang menenangkan. Tempat ini cocok untuk menikmati panorama alam, berfoto, dan bersantai di lingkungan terbuka.",
+    "rating": 4.6,
+    "jumlah_ulasan": 51,
+    "harga_masuk": 0,
+    "harga_paket": 310000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "11:00",
+    "jam_tutup": "21:00",
+    "buka_24jam": false,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/tJg9NuFXhAN9cXvp8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2017884,
+     -7.674711
+    ]
+   },
+   "properties": {
+    "id": "W050",
+    "nama": "Embung Sidoharjo /Canggal",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Sidoharjo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Embung Sidoharjo atau Embung Canggal merupakan tampungan air yang dikelilingi lanskap perdesaan dan perbukitan di wilayah Sidoharjo, Kulon Progo. Selain berfungsi sebagai sumber air, kawasan ini berpotensi menjadi tempat untuk menikmati pemandangan dan suasana alam.",
+    "rating": 4.6,
+    "jumlah_ulasan": 341,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/wgszKvEcSPrUo2MV6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1488125,
+     -7.6583125
+    ]
+   },
+   "properties": {
+    "id": "W051",
+    "nama": "Puncak Widosari - Desa Wisata Widosari",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Ngargosari",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Puncak Widosari di Desa Wisata Widosari merupakan destinasi wisata perbukitan yang terkenal dengan formasi batuan besar dan panorama alam Perbukitan Menoreh. Dari kawasan puncak, pengunjung dapat menikmati bentang alam yang luas serta suasana sejuk yang menarik untuk fotografi dan wisata alam.",
+    "rating": 4.6,
+    "jumlah_ulasan": 819,
+    "harga_masuk": 15000,
+    "harga_paket": 105000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "06:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/zbnm2VuwfAH85VQr6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1314505,
+     -7.7471682
+    ]
+   },
+   "properties": {
+    "id": "W052",
+    "nama": "Goa Kiskendo",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Goa Kiskendo merupakan destinasi wisata alam dan budaya yang terletak di Kecamatan Girimulyo, Kabupaten Kulon Progo, Yogyakarta. Gua ini memiliki formasi batuan alami serta nilai legenda yang berkaitan dengan kisah Ramayana, sehingga menarik bagi wisatawan yang ingin menjelajahi keindahan gua sekaligus mengenal cerita dan budaya lokal.",
+    "rating": 4.3,
+    "jumlah_ulasan": 2180,
+    "harga_masuk": 10000,
+    "harga_paket": 562500,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "09:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/khDzYmeiVYUhNnnt5"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1818026,
+     -7.7020761
+    ]
+   },
+   "properties": {
+    "id": "W053",
+    "nama": "Watu Tumpang Samigaluh",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Banjarsari",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Watu Tumpang Samigaluh merupakan destinasi wisata alam di kawasan Perbukitan Menoreh, Kulon Progo, yang menawarkan suasana pedesaan dan bentang alam perbukitan. Tempat ini cocok untuk menikmati ketenangan alam dan menjelajahi keindahan lingkungan sekitar.",
+    "rating": 4.1,
+    "jumlah_ulasan": 11,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/8V37CCXf8x7xwPaVA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1918837,
+     -7.7173943
+    ]
+   },
+   "properties": {
+    "id": "W054",
+    "nama": "Wisata Punthuk Ngepoh",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjararum",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Wisata Punthuk Ngepoh merupakan destinasi wisata alam yang menawarkan panorama perbukitan dan pemandangan pedesaan dari ketinggian. Suasananya cocok untuk bersantai, menikmati udara segar, dan mengabadikan keindahan lanskap alam.",
+    "rating": 4.5,
+    "jumlah_ulasan": 35,
+    "harga_masuk": 6000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "23:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/ntQEyeh1vXvmekWa8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2131553,
+     -7.6920487
+    ]
+   },
+   "properties": {
+    "id": "W055",
+    "nama": "Puncak Kuda Sembrani-Desa Wisata Banjarasri",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Puncak Kuda Sembrani di Desa Wisata Banjarasri merupakan destinasi wisata alam yang menyuguhkan pemandangan kawasan perbukitan Kulon Progo. Tempat ini menarik bagi pengunjung yang ingin menikmati panorama alam, menjelajahi lingkungan pedesaan, dan melakukan fotografi lanskap.",
+    "rating": 4.3,
+    "jumlah_ulasan": 17,
+    "harga_masuk": 0,
+    "harga_paket": 152500,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "06:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/eA9y8BfE69ZYbp1t9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2097191,
+     -7.6917865
+    ]
+   },
+   "properties": {
+    "id": "W056",
+    "nama": "Puncak Giri Sembung",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Puncak Giri Sembung merupakan destinasi wisata perbukitan yang menawarkan suasana alami dan panorama lanskap sekitarnya. Lokasi ini dapat menjadi pilihan untuk menikmati udara segar, bersantai, dan melihat keindahan alam Kulon Progo dari ketinggian.",
+    "rating": 4.4,
+    "jumlah_ulasan": 57,
+    "harga_masuk": 0,
+    "harga_paket": 575000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "13:00",
+    "buka_24jam": false,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/2pQYCGNsktS8LAJL8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2340938,
+     -7.7032441
+    ]
+   },
+   "properties": {
+    "id": "W057",
+    "nama": "KIDUL PATROL JURUGAN",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Wisata Alam",
+    "deskripsi": "Kidul Patrol Jurugan merupakan destinasi yang berada di kawasan pedesaan Kulon Progo dengan potensi keindahan alam dan suasana lingkungan yang asri. Tempat ini dapat menjadi pilihan bagi pengunjung yang ingin menjelajahi kawasan sekitar dan menikmati ketenangan alam.",
+    "rating": 4.2,
+    "jumlah_ulasan": 28,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/cYpBix3E7G14SYUV7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2540437,
+     -7.6426803
+    ]
+   },
+   "properties": {
+    "id": "W058",
+    "nama": "Gerbang Samudra Raksa",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Gerbang Samudra Raksa merupakan landmark wisata dan kawasan rekreasi di Banjaroya, Kalibawang, Kulon Progo. Destinasi ini berada pada jalur Nanggulan–Mendut dan dapat menjadi salah satu titik kunjungan untuk menikmati ruang terbuka sekaligus mengenal kawasan wisata di bagian barat Yogyakarta.",
+    "rating": 4.6,
+    "jumlah_ulasan": 160,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "07:00",
+    "jam_tutup": "21:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/izWPC1QBj6DKzx1B6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2670825,
+     -7.6644589
+    ]
+   },
+   "properties": {
+    "id": "W059",
+    "nama": "Ancol Bridge - Bligo",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Ancol Bridge – Bligo merupakan jembatan yang menghubungkan kawasan Bligo dengan wilayah sekitarnya di Kulon Progo. Lokasi ini dapat menjadi titik persinggahan bagi pengunjung yang menjelajahi kawasan pedesaan dan menikmati suasana sekitar.",
+    "rating": 4.5,
+    "jumlah_ulasan": 1248,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/DgzLgJGQ6BZ8G1uB7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2346167,
+     -7.6661845
+    ]
+   },
+   "properties": {
+    "id": "W060",
+    "nama": "Our Lady of Lourdes Catholic Church, Promasan",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Religi dan Budaya",
+    "deskripsi": "Our Lady of Lourdes Catholic Church, Promasan merupakan gereja Katolik di kawasan Promasan yang menjadi tempat ibadah dan kegiatan rohani umat. Lingkungannya yang tenang juga menjadikannya bagian dari tujuan wisata religi di kawasan perbukitan Kulon Progo.",
+    "rating": 4.8,
+    "jumlah_ulasan": 283,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "07:00",
+    "jam_tutup": "14:30",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/vDkDrs5sXsamK7NL8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2348574,
+     -7.6588048
+    ]
+   },
+   "properties": {
+    "id": "W061",
+    "nama": "WADUK MINI EMBUNG BANJAROYA",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Waduk Mini Embung Banjaroya merupakan tampungan air di wilayah Banjaroya, Kalibawang, yang mendukung kebutuhan air masyarakat dan pertanian. Kawasan sekitarnya menawarkan suasana pedesaan yang menarik untuk menikmati pemandangan dan lingkungan alam.",
+    "rating": 4.3,
+    "jumlah_ulasan": 1614,
+    "harga_masuk": 0,
+    "harga_paket": 120000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "08:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/mQYLNo5nSfQH2Tmi7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1912207,
+     -7.7432698
+    ]
+   },
+   "properties": {
+    "id": "W062",
+    "nama": "Tinitah Alam",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Pendoworejo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Tinitah Alam merupakan destinasi wisata yang mengangkat suasana alam dan lingkungan hijau sebagai daya tarik utama. Tempat ini dapat menjadi pilihan untuk bersantai, menikmati udara segar, dan menghabiskan waktu di kawasan pedesaan.",
+    "rating": 4.4,
+    "jumlah_ulasan": 1041,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": 3000,
+    "makan_max": 37000,
+    "jam_buka": "09:00",
+    "jam_tutup": "20:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/eAN3zZ9hyuZX79Wz7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1855748,
+     -7.6465812
+    ]
+   },
+   "properties": {
+    "id": "W063",
+    "nama": "Gunung Kendil",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Sidoharjo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Gunung Kendil merupakan destinasi wisata alam berupa perbukitan yang menawarkan pemandangan lanskap sekitarnya. Kawasan ini menarik bagi pengunjung yang ingin menikmati suasana alam, menjelajahi lingkungan perbukitan, dan mengambil foto.",
+    "rating": 4.7,
+    "jumlah_ulasan": 444,
+    "harga_masuk": 5000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/eAN3zZ9hyuZX79Wz7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.160298,
+     -7.7106853
+    ]
+   },
+   "properties": {
+    "id": "W064",
+    "nama": "Candi Pringtali",
+    "kapanewon": "Samigaluh",
+    "kalurahan": "Kebonharjo",
+    "kategori": "Religi dan Budaya",
+    "deskripsi": "Candi Pringtali merupakan situs budaya yang menjadi bagian dari kekayaan sejarah dan warisan lokal di Kulon Progo. Keberadaannya menarik bagi pengunjung yang ingin mengenal peninggalan masa lalu serta nilai sejarah dan budaya masyarakat setempat.",
+    "rating": 4.4,
+    "jumlah_ulasan": 83,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/sk7RvbDfC5i9GMef6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1130891,
+     -7.7788013
+    ]
+   },
+   "properties": {
+    "id": "W065",
+    "nama": "Relay Pandang TAMANAN",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Jatimulyo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Gardu Pandang Tamanan merupakan tempat untuk menikmati panorama alam dari ketinggian di kawasan Kulon Progo. Lokasi ini cocok untuk bersantai, melihat bentang alam pedesaan, dan mengabadikan pemandangan sekitar.",
+    "rating": 4.5,
+    "jumlah_ulasan": 156,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/YHYx4R1YswYPcgbb9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.1480054,
+     -7.7211213
+    ]
+   },
+   "properties": {
+    "id": "W066",
+    "nama": "Gua Maria Lawangsih",
+    "kapanewon": "Girimulyo",
+    "kalurahan": "Purwosari",
+    "kategori": "Religi dan Budaya",
+    "deskripsi": "Gua Maria Lawangsih merupakan tempat ziarah umat Katolik yang berada di kawasan perbukitan Kulon Progo. Suasana gua yang tenang dan lingkungan alam yang asri menjadikannya tempat untuk berdoa, bermeditasi, dan melakukan refleksi spiritual.",
+    "rating": 4.8,
+    "jumlah_ulasan": 541,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/J1RGiAbNEJVWCe5k8"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.216917,
+     -7.6843436
+    ]
+   },
+   "properties": {
+    "id": "W067",
+    "nama": "Gua Maria Watu Blencong, Borosuci(Saint Mary's Grotto)",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarasri",
+    "kategori": "Religi dan Budaya",
+    "deskripsi": "Gua Maria Watu Blencong, Borosuci merupakan tempat ziarah umat Katolik yang digunakan untuk berdoa dan melakukan kegiatan rohani. Berada di lingkungan pedesaan, tempat ini menawarkan suasana yang tenang bagi peziarah yang ingin melakukan refleksi spiritual.",
+    "rating": 4.7,
+    "jumlah_ulasan": 132,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/MYy45G9CvPRDXJgN6"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.234359,
+     -7.6589845
+    ]
+   },
+   "properties": {
+    "id": "W068",
+    "nama": "EMBUNG TONOGORO - DESA BANJAROYO - KALIBAWANG",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Embung Tonogoro di Desa Banjaroya, Kalibawang, merupakan tampungan air yang mendukung kebutuhan pengairan dan aktivitas pertanian masyarakat setempat. Lingkungan pedesaannya menawarkan suasana yang tenang serta pemandangan alam yang menarik untuk dinikmati.",
+    "rating": 4.5,
+    "jumlah_ulasan": 169,
+    "harga_masuk": 0,
+    "harga_paket": 120000,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "07:00",
+    "jam_tutup": "17:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/wmnE8TqhzbCbT2CJA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2255368,
+     -7.6679857
+    ]
+   },
+   "properties": {
+    "id": "W069",
+    "nama": "Gua Maria Sendangsono",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Religi dan Budaya",
+    "deskripsi": "Gua Maria Sendangsono merupakan tempat ziarah Katolik yang terkenal di kawasan Kalibawang, Kulon Progo. Dikelilingi pepohonan dan lingkungan yang asri, tempat ini menjadi tujuan umat untuk berdoa, berziarah, serta mengenang sejarah perkembangan Katolik di wilayah tersebut.",
+    "rating": 4.8,
+    "jumlah_ulasan": 4179,
+    "harga_masuk": 0,
+    "harga_paket": 150000,
+    "makan_min": 15000,
+    "makan_max": 20000,
+    "jam_buka": "09:00",
+    "jam_tutup": "16:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/kP5ZyrvTheMtpKaM9"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2408263,
+     -7.6866261
+    ]
+   },
+   "properties": {
+    "id": "W070",
+    "nama": "Makam Nyi Ageng Serang",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjarharjo",
+    "kategori": "Religi dan Budaya",
+    "deskripsi": "Makam Nyi Ageng Serang merupakan situs sejarah yang berkaitan dengan tokoh pahlawan nasional Nyi Ageng Serang, yang berperan dalam perjuangan melawan kolonialisme. Tempat ini menjadi tujuan wisata sejarah dan ziarah bagi pengunjung yang ingin mengenal perjuangan serta warisan sejarah Indonesia.",
+    "rating": 4.6,
+    "jumlah_ulasan": 21,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "09:00",
+    "jam_tutup": "22:00",
+    "buka_24jam": false,
+    "hari_buka": [],
+    "url_maps": "https://maps.app.goo.gl/LeWaC75HJtkBsBfcA"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.266253,
+     -7.6653142
+    ]
+   },
+   "properties": {
+    "id": "W071",
+    "nama": "ANCOL KALIBAWANG KULONPROGO",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Ancol Kalibawang Kulon Progo merupakan kawasan wisata di sekitar aliran Sungai Progo yang menawarkan suasana alam dan ruang terbuka untuk rekreasi. Tempat ini dapat menjadi pilihan untuk bersantai, menikmati pemandangan sungai, dan menghabiskan waktu bersama keluarga.",
+    "rating": 4.2,
+    "jumlah_ulasan": 619,
+    "harga_masuk": 0,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "00:00",
+    "jam_tutup": "23:59",
+    "buka_24jam": true,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/SyrFx3M9npqxHD9b7"
+   }
+  },
+  {
+   "type": "Feature",
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     110.2622266,
+     -7.6707898
+    ]
+   },
+   "properties": {
+    "id": "W072",
+    "nama": "Embung Krapyak",
+    "kapanewon": "Kalibawang",
+    "kalurahan": "Banjaroyo",
+    "kategori": "Wisata Alam-Buatan",
+    "deskripsi": "Embung Krapyak merupakan tampungan air yang berada di lingkungan pedesaan Kulon Progo dan berfungsi mendukung kebutuhan air setempat. Kawasan sekitarnya menawarkan suasana terbuka yang cocok untuk menikmati pemandangan dan ketenangan alam.",
+    "rating": 4.3,
+    "jumlah_ulasan": 374,
+    "harga_masuk": 5000,
+    "harga_paket": null,
+    "makan_min": null,
+    "makan_max": null,
+    "jam_buka": "06:00",
+    "jam_tutup": "18:00",
+    "buka_24jam": false,
+    "hari_buka": [
+     "Senin",
+     "Selasa",
+     "Rabu",
+     "Kamis",
+     "Jumat",
+     "Sabtu",
+     "Minggu"
+    ],
+    "url_maps": "https://maps.app.goo.gl/soeLHNjRpnib398n7"
+   }
+  }
+ ]
+}
