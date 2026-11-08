@@ -93,7 +93,7 @@ $('btn-cari').onclick = async () => {
   $('btn-cari').disabled = true;
   $('hasil').textContent = 'Menghitung rekomendasi…';
   try {
-    geojsonCache ??= await (await fetch('data/wisata.geojson')).json();
+    geojsonCache ??= await (await fetch('wisata.geojson')).json();
     const hasil = (await rekomendasiWisata(geojsonCache, input)).slice(0, TOP_N);
     tampilkan(hasil);
   } catch (err) {
